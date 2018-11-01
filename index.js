@@ -17,4 +17,3 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'khan';
 
 }
-
