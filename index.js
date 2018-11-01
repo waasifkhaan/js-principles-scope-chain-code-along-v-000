@@ -1,6 +1,6 @@
 /* Your code goes here */
 var customerName = 'bob';
-const leastFavoriteCustomer = 'sour fred';
+const leastFavoriteCustomer = 'lala';
 let favoriteCustomer;
 
 function upperCaseCustomerName() {
@@ -8,7 +8,7 @@ function upperCaseCustomerName() {
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'sour fr'
+  leastFavoriteCustomer = 'la'
 }
 
 
