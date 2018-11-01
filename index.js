@@ -1,6 +1,6 @@
 /* Your code goes here */
 var customerName = 'bob';
-var overWriteBestCustomer = '';
+
 
 const leastFavoriteCustomer = 'wasif'
 
@@ -13,7 +13,7 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer(){
-  overWriteBestCustomer = 'maybe bob';
+  overWriteBestCustomer =bestCustomer =  'maybe bob';
 }
 
 function changeLeastFavoriteCustomer() {
