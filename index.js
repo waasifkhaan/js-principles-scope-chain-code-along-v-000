@@ -1,6 +1,6 @@
 /* Your code goes here */
-var customerName = 'bob'
-const leastFavoriteCustomer = 'sour fred'
+var customerName = 'bob';
+const leastFavoriteCustomer = 'sour fred';
 let favoriteCustomer = 'p';
 
 function upperCaseCustomerName() {
@@ -21,5 +21,5 @@ function overWriteBestCustomer(newFavorite){
 }
 function attemptTwoFavoriteCustomers() {
   let favoriteCustomer = 'll';
-  
+
 }
